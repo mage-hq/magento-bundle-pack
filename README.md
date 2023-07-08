@@ -1,5 +1,5 @@
 # magento-bundle-pack
-The Magento 2 Bundle Pack - Product Kits extension allows to promote specific products as kits or bundles with a fixed or percentage discount. Suggesting customers to buy a whole set of products instead of a single product is a great way to increase order value.
+Magento 2 Bundle Pack - Product Kits extension, you can advertise specific products as accessories or packages with a fixed or random discount. Motivating customers to buy a full set of products instead of a single product
 
 Please go to https://magehq.com/bundle-pack.html buy extension
 
